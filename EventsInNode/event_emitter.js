@@ -66,3 +66,5 @@ eventEmitter.removeAllListeners("start"); // removes all the listener for the ev
 console.log("After removing: ");
 eventEmitter.emit("start");
 // no logs
+
+//Checkout other handy functions here: https://github.com/nodejs/nodejs.dev/blob/aa4239e87a5adc992fdb709c20aebb5f6da77f86/content/learn/node-js-modules/node-module-events.en.md
